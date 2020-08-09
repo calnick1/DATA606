@@ -14,10 +14,17 @@ A time of Global Pandemic, protests, and presidential changes, but mainly a time
 
 <b> Research Questions: </b>
 
-What are the current market conditions? How has the Coronavirus impacted stock prices and why is investing now such a troubling time?  
-There are many companies researching Coronavirus vaccines, could investing in these companies be the most prudent option?
-We are in the middle of a textbook definition of a recession (two consecutive quarters of GDP decline). Do certain stocks perform better following a recession?
-Can machine learning be used to classify the outperforming stocks from the underpeforming stocks? If so, what are the characteristics that separate winners from losers?
+1. What are the current market conditions? 
+
+2. How has the Coronavirus impacted stock prices and why is investing now such a troubling time?  
+
+3. There are many companies researching Coronavirus vaccines, could investing in these companies be the most prudent option?
+
+4. We are in the middle of a textbook definition of a recession (two consecutive quarters of GDP decline).
+
+5. Do certain stocks perform better following a recession?
+
+6. Can machine learning be used to classify the outperforming stocks from the underpeforming stocks? If so, what are the characteristics that separate winners from losers?
 
 <b> Datasets </b>
 
