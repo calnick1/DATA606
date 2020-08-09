@@ -1,11 +1,6 @@
-# DATA606
-## MARKET OUTLOOK: Areas of Opportunity in the Post Coronavirus World
+<b> DATA606 </b>
+# MARKET OUTLOOK: Areas of Opportunity in the Post Coronavirus World
 
-<html>
-<head>
-  <title> MARKET OUTLOOK: Areas of Opportunity in the Post Coronavirus World </title>
-</head>
-<body>
 
 [Presentation 1 YouTube Link](https://www.youtube.com/watch?v=vlPVfY3KBA0) <br />
 [Presentation 2 YouTube Link](https://youtu.be/gpdSMZ3diAc) <br />
