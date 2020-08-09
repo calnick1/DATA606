@@ -1,5 +1,5 @@
 # DATA606
-MARKET OUTLOOK: Areas of Opportunity in the Post Coronavirus World
+<title>MARKET OUTLOOK: Areas of Opportunity in the Post Coronavirus World</title>
 
 [Presentation 1 YouTube Link](https://www.youtube.com/watch?v=vlPVfY3KBA0) <br />
 [Presentation 2 YouTube Link](https://youtu.be/gpdSMZ3diAc) <br />
@@ -7,11 +7,11 @@ MARKET OUTLOOK: Areas of Opportunity in the Post Coronavirus World
 
 
 
-Project Aim:
+<b> Project Aim: </b>
 
 A time of Global Pandemic, protests, and presidential changes, but mainly a time of uncertainty. No one knows how long it will take the world to develop a vaccine, and until then, our financial markets are going to be very unstable. As I write this, I realize that the past two weeks showed on of the fastest stock rebounds in history. Then today (6/11/2020), the Dow experienced the 27th largest 1-day decline in history after experiencing one the fastest stock rebounds in history. My goal is to find lucrative investment opportunities during this black swan event.
 
-Research Questions:
+<b> Research Questions: </b>
 
 What are the current market conditions? How has the Coronavirus impacted stock prices and why is investing now such a troubling time?  
 There are many companies researching Coronavirus vaccines, could investing in these companies be the most prudent option?
@@ -30,6 +30,6 @@ Can machine learning be used to classify the outperforming stocks from the under
 
 5. Efficient Frontier Portfolio: Daily closing prices of stock data from yahoo  [Used in Deliverable 3].
 
-Graphs
+<b> Graphs </b>
 
 If time allots, visuals will be created through Tableau. However, most will start out as a python visual and may stay as a python visual if that seems to be best option.
