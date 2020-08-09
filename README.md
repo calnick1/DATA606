@@ -18,7 +18,7 @@ There are many companies researching Coronavirus vaccines, could investing in th
 We are in the middle of a textbook definition of a recession (two consecutive quarters of GDP decline). Do certain stocks perform better following a recession?
 Can machine learning be used to classify the outperforming stocks from the underpeforming stocks? If so, what are the characteristics that separate winners from losers?
 
-Datasets
+<b> Datasets </b>
 
 1. Daily New U.S. Covid-19 Confirmed Cases: Provided by the CDC [Used in figure 1].
 
@@ -27,7 +27,8 @@ Datasets
 3. Daily S&P 500 Daily Closing Prices (12/31/1967 - 12/31/1967): inspired by Bloomberg article [Used in figure 2].
 
 4. Mosiac Dataset of 2008 - 2018 Russell 3000 Index Constituents : Provided by Bloomberg Terminal subscription, but purely for analysis. None of the underlying data is made accessible in this project. The Russell 3000 Index tracks the performance of approximately 98% of all U.S. incorporated equity securities (https://www.investopedia.com/terms/r/russell_3000.asp ).   [Used in model construction].
-Efficient Frontier Portfolio: Daily closing prices of stock data from yahoo  [Used in Deliverable 3].
+
+5. Efficient Frontier Portfolio: Daily closing prices of stock data from yahoo  [Used in Deliverable 3].
 
 Graphs
 
