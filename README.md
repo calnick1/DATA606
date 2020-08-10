@@ -3,7 +3,7 @@
 
 
 [Presentation 1 YouTube Link](https://www.youtube.com/watch?v=vlPVfY3KBA0) <br />
-[Presentation 2 YouTube Link](https://youtu.be/gpdSMZ3diAc) <br />
+[Presentation 2 YouTube Link](https://www.youtube.com/watch?v=eFD1gaLImrk) <br />
 [Presentation 3 YouTube Link](https://youtu.be/gpdSMZ3diAc) <br />
 
 
@@ -41,3 +41,17 @@ A time of Global Pandemic, protests, and presidential changes, but mainly a time
 <b> Graphs </b>
 
 If time allots, visuals will be created through Tableau. However, most will start out as a python visual and may stay as a python visual if that seems to be best option.
+
+<b> References </b>
+
+1. Donges, Niklas. “A Complete Guide to the Random Forest Algorithm.” Built In, 2020, builtin.com/data-science/random-forest-algorithm.
+
+2. Chen, James. “Learn What a Piotroski Score Is.” Investopedia, Investopedia, 5 Feb. 2020, www.investopedia.com/terms/p/piotroski-score.asp.
+
+3. Piotroski, Joseph D. “Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers.” Journal of Accounting Research, vol. 38, 2000, p. 1., doi:10.2307/2672906.
+
+4. “Yahoo Finance - Stock Market Live, Quotes, Business & Finance News.” Yahoo! Finance, Yahoo!, finance.yahoo.com/.
+
+
+
+
