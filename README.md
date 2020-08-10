@@ -48,9 +48,11 @@ If time allots, visuals will be created through Tableau. However, most will star
 
 2. Chen, James. “Learn What a Piotroski Score Is.” Investopedia, Investopedia, 5 Feb. 2020, www.investopedia.com/terms/p/piotroski-score.asp.
 
-3. Piotroski, Joseph D. “Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers.” Journal of Accounting Research, vol. 38, 2000, p. 1., doi:10.2307/2672906.
+3. Koehrsen, Will. “How to Visualize a Decision Tree from a Random Forest in Python Using Scikit-Learn.” Medium, Towards Data Science, 19 Aug. 2018, towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c.
 
-4. “Yahoo Finance - Stock Market Live, Quotes, Business & Finance News.” Yahoo! Finance, Yahoo!, finance.yahoo.com/.
+4. Piotroski, Joseph D. “Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers.” Journal of Accounting Research, vol. 38, 2000, p. 1., doi:10.2307/2672906.
+
+5. “Yahoo Finance - Stock Market Live, Quotes, Business & Finance News.” Yahoo! Finance, Yahoo!, finance.yahoo.com/.
 
 
 
