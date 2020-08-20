@@ -28,6 +28,8 @@ A time of Global Pandemic, protests, and presidential changes, but mainly a time
 
 <b> Datasets </b>
 
+
+
 1. Daily New U.S. Covid-19 Confirmed Cases: Provided by the CDC [Used in figure 1].
 
 2. Daily S&P 500 Daily Closing Prices (12/01/2019 - 6/26/2020): Provided by Yahoo Finance [Used in figure 1 & 2].
@@ -44,16 +46,24 @@ If time allots, visuals will be created through Tableau. However, most will star
 
 <b> References </b>
 
-1. Donges, Niklas. “A Complete Guide to the Random Forest Algorithm.” Built In, 2020, builtin.com/data-science/random-forest-algorithm.
+1. Bloomberg Terminal  (for research purposes, any underlying data is not available on this website. Manipulated and de-identified data is available on github). 
 
 2. Chen, James. “Learn What a Piotroski Score Is.” Investopedia, Investopedia, 5 Feb. 2020, www.investopedia.com/terms/p/piotroski-score.asp.
 
-3. Koehrsen, Will. “How to Visualize a Decision Tree from a Random Forest in Python Using Scikit-Learn.” Medium, Towards Data Science, 19 Aug. 2018, towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c.
+3. Donges, Niklas. “A Complete Guide to the Random Forest Algorithm.” Built In, 2020, builtin.com/data-science/random-forest-algorithm.
 
-4. Piotroski, Joseph D. “Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers.” Journal of Accounting Research, vol. 38, 2000, p. 1., doi:10.2307/2672906.
+4. Kim, Ricky. “Efficient Frontier Portfolio Optimisation in Python.” Medium, Towards Data Science, 11 Jan. 2019, towardsdatascience.com/efficient-frontier-portfolio-optimisation-in-python-e7844051e7f.
 
-5. “Yahoo Finance - Stock Market Live, Quotes, Business & Finance News.” Yahoo! Finance, Yahoo!, finance.yahoo.com/.
+5. Koehrsen, Will. “How to Visualize a Decision Tree from a Random Forest in Python Using Scikit-Learn.” Medium, Towards Data Science, 19 Aug. 2018, towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c.
 
+6. Pathak, Manish. “TPOT in Python.” DataCamp Community, 2018, www.datacamp.com/community/tutorials/tpot-machine-learning-python.
 
+7. Piotroski, Joseph D. “Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers.” Journal of Accounting Research, vol. 38, 2000, p. 1., doi:10.2307/2672906.
+
+8. Slidehack. (2019). The X Note [PowerPoint slides]. Retrieved July 1, 2020, from https://elements.envato.com/all-items/slidehack+x+note
+
+9. Wixom, Dakota. “Introduction to Portfolio Risk Management in Python.” DataCamp, 2020, www.datacamp.com/courses/intro-to-portfolio-risk-management-in-python.
+
+10. “Yahoo Finance - Stock Market Live, Quotes, Business & Finance News.” Yahoo! Finance, Yahoo!, finance.yahoo.com/.
 
 
